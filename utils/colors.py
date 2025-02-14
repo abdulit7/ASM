@@ -1,0 +1,2 @@
+
+CustomColor = "#FF5733"
